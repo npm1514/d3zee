@@ -1,4 +1,4 @@
-<img src="sollogo.png" width="400" align="right"/>
+<img src="./images/sollogo.png" width="400" align="right"/>
 
 ##d3zee Library
 
