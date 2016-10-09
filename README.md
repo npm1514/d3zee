@@ -15,6 +15,9 @@ The second argument is your array of data. If your data is set up in objects, yo
 
 The third argument is optional. If set to true, your chart will be animated.
 
+The syntax looks like this ``d3zee.<method>('<location>', <array>, <boolean for animation>)``.
+Here is an example as well ``d3zee.upBar(".container", dataArray, true)
+
 Each method is described below.
 <br />
 ##upBar
