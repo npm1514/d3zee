@@ -1,0 +1,22 @@
+{
+  "name": "d3zee",
+  "version": "1.0.0",
+  "description": "<img src=\"./images/sollogo.png\" width=\"400\" align=\"right\"/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm1514/d3zee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm1514/d3zee/issues"
+  },
+  "homepage": "https://github.com/npm1514/d3zee#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
