@@ -6,7 +6,15 @@
 The purpose of this repository is to display an easy d3 repository.
 
 ##Description
-So far, I have 8 methods that I have created, which is based off of the D3 library. You can fork and download this repo. By placing both the d3 library and my d3zee.js file in your project, you may use these methods.
+So far, I have 8 methods that I have created, which is based off of the D3 library. By using the d3zee CDN below, you may use these methods.
+
+```
+Main File CDN
+https://d3zee.herokuapp.com/d3zee.js
+
+Minified CDN
+https://d3zee.herokuapp.com/d3zee.min.js
+```
 
 For each method you will need to call in an element/class/id as the first argument. You are also responsible for sizing that element in your own CSS.
 
