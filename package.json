@@ -2,10 +2,10 @@
   "name": "d3zee",
   "version": "1.0.0",
   "description": "<img src=\"./images/sollogo.png\" width=\"400\" align=\"right\"/>",
-  "main": "index.js",
+  "main": "app/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node app/index.js"
   },
   "repository": {
     "type": "git",
